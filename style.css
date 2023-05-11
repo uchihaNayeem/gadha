@@ -1,0 +1,15 @@
+.container {
+    background-image: url("https://www.jagranimages.com/images/newimg/01012021/01_01_2021-donkey_21226090.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
